@@ -47,3 +47,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* 
+O CSS Reset faz exatamente com que o todos os navegadores fiquem zerados 
+e sem nenhum tipo de valor padrão(por isso o nome de reset), dessa forma 
+fica mais fácil identificar qualquer tipo de bug que tenha em 
+determinado navegador.
+*/
