@@ -340,7 +340,7 @@ td, th {
     }
 
     nav {
-        margin: 45px 0 10px -40px;
+        margin: 45px 10px 10px -20px;   
     }
 
     .mapa-conteudo {
@@ -378,7 +378,7 @@ td, th {
 
     form {
         text-align: center;
-
+        
     }
 
     .input-padrao {
